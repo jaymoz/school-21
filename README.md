@@ -1,4 +1,4 @@
-# School-21
+# 42 School
 Overview of my projects in school 21(42 school).
 
 libft
